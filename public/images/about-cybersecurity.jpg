@@ -1,0 +1,16 @@
+<!-- SVG Placeholder for About Section -->
+<svg width="1200" height="900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg-gradient)"/>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="48" fill="#60a5fa" text-anchor="middle" dominant-baseline="middle">
+    Cybersecurity Team
+  </text>
+  <text x="50%" y="55%" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8" text-anchor="middle" dominant-baseline="middle">
+    Replace with actual image
+  </text>
+</svg>
